@@ -3,7 +3,7 @@ from discord import Intents
 
 class Configs:
     ENVIRON = 'DEV'  # or 'PRO'
-    TOKEN = 'OTg3MDU4NzQ0MjMzOTYzNTQy.GTASc6.86Vhv2RfTKb7zz2KWCM2rK_E8NJ9Aolyqsbf84'
+    TOKEN = '*****************************'
     # commands 0 and 1, when joined = COMMAND_PREFIX > 2 chars to proceed every command
     COMMAND_0 = '/'
     COMMAND_1 = 's'
